@@ -20,12 +20,11 @@
       <?php endwhile; 
       
       echo paginate_links();
-      
-      else : ?>
+
+      endif; ?>
 
         <?php get_template_part( 'template-parts/content', 'none' ); ?>
 
-      <?php endif; ?>      
 
       <p>Template: archive.php</p>
 

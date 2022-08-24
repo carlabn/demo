@@ -10,10 +10,30 @@
 */
 
 
-h3 {
-    background-color: rgb(166, 160, 234);
+h1, h2, h3, a, li {
+    color: #25649c;
+}
+
+h2{
+    background-color: #b3fc9f;
+    font-weight: normal;
+    font-size: 35px;
+    font-family: Arial;
+    text-transform: uppercase;
 }
 
 .site-content {
     padding: 2.0em 0 0;;
+}
+
+.entry-meta {
+    color: #38f205;
+}
+
+.post-edit-link {
+    margin-left: 1em;
+}
+
+.navigation-top {
+    background-color: #b3fc9f;
 }
