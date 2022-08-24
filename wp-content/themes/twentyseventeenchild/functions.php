@@ -25,11 +25,5 @@ function twenty_seventeen_child_theme_pre_get_posts( $query ) {
 }
 add_action( 'pre_get_posts', 'twenty_seventeen_child_theme_pre_get_posts' );
 
-register_nav_menus(
-    array(
-        'top'    => __( 'Top Menu', 'twentyseventeenchild' ),
-        'social' => __( 'Social Links Menu', 'twentyseventeenchild' ),
-    )
-);
 
 ?>
