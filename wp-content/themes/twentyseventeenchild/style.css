@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Twenty Seventeen Child
+ Description:  Twenty Seventeen Child Theme
+ Author:       Carlota Balcells
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twentyseventeenchild
+*/
+
+
+h3 {
+    background-color: rgb(166, 160, 234);
+}
+
+.site-content {
+    padding: 2.0em 0 0;;
+}
